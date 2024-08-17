@@ -1,0 +1,16 @@
+div {
+  margin: 1rem auto;
+  width: 90%
+}
+.special {
+  background-color: #1976d2;
+  color: #fff;
+  padding: 1rem;
+}
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
